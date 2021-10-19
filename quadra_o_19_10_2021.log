@@ -1,0 +1,135 @@
+Tekla Structures Educational 2021
+
+
+********************************************
+Total selected objects:             1070
+Included assembly sub parts         134
+Successful exports:                 1356
+Untransferrable objects selected:   246
+----------------------------------+---------
+Exported objects
+ Beams                              82
+ Members                            14
+ Plates                             364
+ Bolt groups                        288
+ Welds                              210
+----------------------------------+---------
+Container objects:
+ Assemblies                         398 (958)
+----------------------------------+---------
+Untransferrable selections                  
+ Boolean                            168
+ Connection                         64
+ Detail                             14
+--------------------------------------------
+ -IfcProject        Project 
+   -IfcSite           Undefined 
+     -IfcBuilding       Undefined (1204)
+       -IfcBuildingStorey Undefined (1204)
+--------------------------------------------
+Included property set definition files:
+ pset1: C:\ProgramData\Trimble\Tekla Structures\2021.0\environments\brazil\General\AdditionalPSets\IFC_Estruturas_metalicas.xml
+ pset2: C:\ProgramData\Trimble\Tekla Structures\2021.0\environments\common\inp\IfcPropertySetConfigurations_CV2.xml
+********************************************
+
+* Pay attention to the following 32 object(s) *****************
+***************************************************************
+Details:
++-------------------------------------------
+ID: 1678833 TS: IDBA9E6073-E964-4974-BD88-85BE024C68D8, IFC: 2wdc1pwMH9TBs8XRu2J6ZO
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1678876 TS: ID97983AD5-CD5F-4D34-9BD4-01B3FB7B887A, IFC: 2Nc3hLpLzDD9lK0RFxUuXw
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1681889 TS: IDE13710B9-EAB3-4080-92EB-D800111C05DF, IFC: 3XDn2vwhD0W9Bhs00H70NV
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1681943 TS: ID97463DC0-F895-418E-9A0D-4825768698A6, IFC: 2NHZt0_9L1ZfeDI2LsXfYc
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1684849 TS: IDF6660AE8-BC03-41BB-B750-866437228EAF, IFC: 3sPWhel0D1kxTGXcGt8ewl
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1684903 TS: ID5FFC2B81-0F32-449C-8F10-D1BD8A762319, IFC: 1V$2k13p94d8yGqRsATYCP
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1687965 TS: ID23B37DF0-6DF2-4DF5-8EDD-8B90A2F8044E, IFC: 0ZittmRV9DzOxTYv2Y_0HE
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1688052 TS: ID15AA4767-AA8C-4EBA-8458-9F42326959EF, IFC: 0LgaTdgenEkeHOdq8oQLdl
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1688139 TS: IDAA3F3BE7-151F-4CC6-BBC4-D7293DA03212, IFC: 2gFpld5HzCnhl4roaze38I
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1688224 TS: IDDC7488C7-C49E-4A35-BF04-3455D280DF75, IFC: 3ST8Z7n9vADRy4D5NIWDzr
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1688309 TS: IDED2795CD-D991-443D-BCDB-C1BA7701ED76, IFC: 3j9vNDsP54FRpRmRft0Urs
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1688394 TS: IDF0B1B834-016F-49F5-8459-855C731496FB, IFC: 3miRWq0Mz9zOHPXLnp59Rx
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1718924 TS: IDF8A6A9A5-17B5-432F-9AB8-676197377EA3, IFC: 3ufgcb5xL3BvguPs6NDtwZ
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1718978 TS: ID5067045C-F334-4493-886D-AB4455439FE1, IFC: 1GPmHSypH4auXjgqHLGv$X
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719032 TS: IDAD3322C3-56FA-4A8C-BAAC-4CA85B14EC09, IFC: 2jCoB3LlfAZBgiJAXR5Em9
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719086 TS: ID9CD44D06-5557-4460-B522-D0713B7DFF2A, IFC: 2Sr4q6LLT4OBKYq74xVVyg
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719140 TS: IDDB566A03-EFC2-47C5-8FB3-51FFC61FC0F6, IFC: 3RLce3xy97nO_pKV$67y3s
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719194 TS: ID7D1C9FFF-FF37-42AB-B86B-B8E55CE4AF59, IFC: 1z79$$$pT2gxXhkELSvAzP
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719248 TS: ID212FDC42-AA12-4342-A859-BF27E3D47981, IFC: 0XBzn2gX93GgXPloVZr7c1
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719302 TS: IDE8ED172C-7CAE-41D5-8C0E-DA498FC53AA2, IFC: 3exHSiVAv1rOmEsacFnJgY
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719356 TS: ID0636027C-D498-45C5-9066-7FE3CECDA92D, IFC: 06DW9yr9X5nP1cV_FEpQaj
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719410 TS: ID458515EA-90AE-436B-866C-DF9F70C622A5, IFC: 15XHNgaAv3QuPitvzmnYAb
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719464 TS: ID476D67E2-DEE1-400B-A9B7-A9262C230EBD, IFC: 17RMVYtk502wctgIOi8mwz
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1719518 TS: ID9594CA7F-9074-498C-9D80-96B6E5959830, IFC: 2LbCf$a7H9Z9s0bhRbbPWm
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1738348 TS: ID26B36D5B-07DA-4756-9E85-8EF8A5BFBD4E, IFC: 0cisrR1zf7Lfw5ZlYblxrE
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1738391 TS: IDB32ED210-78B1-432C-9ADF-AF8C02873B42, IFC: 2pBj8GUB53B9hVhum2Xpj2
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1741872 TS: IDC9A0AD6D-1022-4AAA-A099-9C6247CAF51A, IFC: 39eArj429Agg2Pd697olKQ
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1741926 TS: ID14B4D3F4-10C0-4245-B09A-FCDC0931AB60, IFC: 0KjDFq4C12HR2Q$Dm9CQjW
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1744956 TS: ID51056DE8-D581-4BC6-8150-EE5D74395FE9, IFC: 1H1MterO5Bne5GxbrqEL$f
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1745043 TS: IDE0CB5723-C6A1-43CA-8E79-4E13C6003828, IFC: 3WorSZng53oevvJXF603We
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1745130 TS: ID747C5C4E-3355-4A73-AE6C-C90654F8FBAE, IFC: 1qV5nECrLASwvioGPK_Fkk
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
++-------------------------------------------
+ID: 1745215 TS: ID089BC890-1E6C-4D47-BB3D-8941B0C5B343, IFC: 08cyYG7cnDHxizYK6mnRD3
+ Info 11: Extruded projection element (Boolean::Add) unsupported: Reverted to BREP export
+
+Elapsed time: 5.0 seconds.
